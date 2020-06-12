@@ -1,2 +1,5 @@
 rootProject.name = 'gang-of-four-design-patterns'
+include 'creational-patterns'
+include 'structural-patterns'
+include 'behavioral-patterns'
 
